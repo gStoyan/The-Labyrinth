@@ -1,0 +1,8 @@
+﻿  Game.cpp
+c:\users\stoyan grancharov\desktop\project\project\game.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\stoyan grancharov\desktop\project\project\game.cpp(488): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\stoyan grancharov\desktop\project\project\game.cpp(456): warning C4101: 'z': unreferenced local variable
+c:\users\stoyan grancharov\desktop\project\project\game.cpp(455): warning C4101: 'y': unreferenced local variable
+c:\users\stoyan grancharov\desktop\project\project\game.cpp(454): warning C4101: 'x': unreferenced local variable
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project.vcxproj -> C:\Users\Stoyan Grancharov\Desktop\Project\Debug\Project.exe
