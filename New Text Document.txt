@@ -1,0 +1,7 @@
+load the shader porgram
+bind the cube vertex buffer
+set the MVP in the shader to the cube matrix
+do draw of cube
+bind the triangle buffer
+set the MVP in the shader to the triangle matrix
+do draw triangle
